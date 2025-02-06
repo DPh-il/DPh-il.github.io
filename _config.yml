@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "student"
+title                    : "Brief Intro"
 title_separator          : "-"
 name                     : &name "Dai, Peihong"
 description              : &description "1st year postgrad at BUAA"
