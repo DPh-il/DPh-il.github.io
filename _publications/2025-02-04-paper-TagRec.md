@@ -3,7 +3,7 @@ title: "TagRec: Temporal-Aware Graph Contrastive Learning with Theoretical Augme
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-04-paper-TagRec.md
-excerpt: 'Temporal-aware graph contrastive learning with theoretical guarantees for sequential Recommendation (TagRec), integrates temporal-aware collaborative patterns with adaptive data augmentation to generate more informative user and item representations.'
+excerpt: 'Temporal-aware graph contrastive learning with theoretical guarantees for sequential Recommendation (TagRec), integrates temporal-aware collaborative patterns with adaptive data augmentation to generate more informative user and item representations. [Link](https://www.computer.org/csdl/journal/tk/5555/01/10872817/24480oKcKEo)'
 date: 2025-02-04
 venue: 'Journal'
 citation: 'T. Peng et al., "TagRec: Temporal-Aware Graph Contrastive Learning with Theoretical Augmentation for Sequential Recommendation," in IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2025.3538706.'
